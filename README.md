@@ -2,4 +2,4 @@
 
 This Repo will include the code for paper: 'Intriguing Properties of Text-guided Diffusion Models'
 
-(We will release the code ~~soon~~ in August. :crossed_fingers: :crossed_fingers: :crossed_fingers: )
+(Hopefully, we'll release the code ~~soon~~ in August. :crossed_fingers: :crossed_fingers: :crossed_fingers: :grimacing: :grimacing: :grimacing:)
